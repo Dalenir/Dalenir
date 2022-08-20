@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend project with CI/CD<br>🚀 Mentoring other people to develop leadership skills myself<br>🌱 I’m currently revisiting basics and learning frontend to make my resume better<br>💬 Ask me about telegram bots. And bears. And any card game: from tarot to mtg.<br>⚡ Fun fact: I wrote bot for random bear gifs and was hired as teamlead
+🔭 I’m currently working on frontend project with CI/CD<br>🚀 Mentoring other people to develop leadership skills myself<br>🌱 I’m currently revisiting basics and learning frontend to make my resume better<br>💬 Ask me about telegram bots. And bears. And any card game: from tarot to mtg.<br>⚡ Fun fact: I wrote bot for random bear gifs, was hired because of it and become teamlead at second day
 
 
 ## 🌐 Socials:
