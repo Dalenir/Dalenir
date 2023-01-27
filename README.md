@@ -1,4 +1,4 @@
-# [My work account](https://github.com/Brdur)
+## [My second (work) account](https://github.com/Brdur)
 # 💫 About Me:
 🔭 I’m currently working on frontend project with CI/CD<br>🚀 Mentoring other people to develop leadership skills myself<br>🌱 I’m currently polishing all my skills to start personal projects<br>💬 Ask me about telegram bots. And bears. And any card game: from tarot to mtg<br>⚡ Fun fact: I wrote bot for random bear gifs, was hired because of it and become teamlead at second day<br>👨‍👦My second account will be listed here after current project where I employe will be done coz muh anonimity, idk
 
