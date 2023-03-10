@@ -1,5 +1,5 @@
-# It's my main and more personal account. 
-# [My secondary account](https://github.com/Brdur)
+## It's my main and more personal account. 
+## [My secondary account](https://github.com/Brdur)
 # 💫 About Me:
 🔭 I’m currently searching for job to grow and live<br>🚀 Some private projects I'm passionate about<br>🌱 I’m currently learning in deep about networks<br>💬 Ask me about DevOps in general, I love it!<br>⚡ Fun fact: I wrote bot for random bear gifs, was hired because of it and become teamlead at second day
 
