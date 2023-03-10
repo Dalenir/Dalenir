@@ -1,6 +1,6 @@
-## [My second (work) account](https://github.com/Brdur)
+## [My secondary account](https://github.com/Brdur)
 # 💫 About Me:
-🔭 I’m currently working on multiple private projects<br>🚀 Mentoring other people to develop leadership skills myself<br>🌱 I’m currently learning in deep about networks<br>💬 Ask me about telegram bots. And bears. And any card game: from tarot to mtg<br>⚡ Fun fact: I wrote bot for random bear gifs, was hired because of it and become teamlead at second day
+🔭 I’m currently searching for job to grow and live<br>🚀 Some private projects I'm passionate about<br>🌱 I’m currently learning in deep about networks<br>💬 Ask me about DevOps in general, I love it!<br>⚡ Fun fact: I wrote bot for random bear gifs, was hired because of it and become teamlead at second day
 
 
 ## 🌐 Socials:
