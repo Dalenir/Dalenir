@@ -16,7 +16,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dalenir&icon=7&color=12)](https://visitcount.itsvg.in)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Dalenir&icon=3&color=12)](https://visitcount.itsvg.in)
