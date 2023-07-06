@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m freelance backend developer<br>🚀 In spare time testing some really good project ideas<br>🌱 I’m currently study frontend to break the shackles from my fantasy<br>💬 Ask me about DevOps in general, I love it!
+🔭 I’m freelance backend developer.<br>🚀 In spare time testing some really good project ideas.<br>🌱 I’m currently study frontend to break the shackles from my fantasy.<br>💬 Ask me about DevOps in general, I love it!
 
 
 ## 🌐 Socials:
