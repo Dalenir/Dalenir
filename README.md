@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m freelance backend developer.<br>🚀 In spare time testing some really good project ideas.<br>🌱 I’m currently study frontend to break the shackles from my fantasy.<br>💬 Ask me about DevOps in general, I love it!
-
+🔭 Fullstack developer with backend past: FastAPI || Mongo/PostgreSQL || React <br>🚀 Never stopping to learn something new, never really satisfied with what has been achieved<br>🌱 Right now I re-studying DevOps practices with KodeKloud<br>💬 Advice from the man with thousand skills: NEVER SKIP BASICS. It is the thing that make you stand where all falling.<br>🙈 I really need to add something to my portfolio, but I'm always too busy with stuff I've been paid for. So here ![website](https://parok.fun/) I made not long ago.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neveric)
