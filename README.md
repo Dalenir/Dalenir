@@ -8,6 +8,8 @@
 ### - Things I really don't care much and do not find valuable.
 ## Good luck.
 
+And I do not like Github either.
+
 ### 
 
 ## 🌐 Socials:
