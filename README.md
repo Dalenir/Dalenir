@@ -1,3 +1,15 @@
+# ⚙️Garbage collector⚙️
+### Let's discuss the elephant in the room: I am not ALL coding.
+### I (am trying to) have a life, and life is impossible if you busy with constant adding and maintaining of up-to-date skills portfolio. Also, this task is very contradictive to other things, like work that I get money for and personal projects I hope to get money for.
+### And still, every second recrutier is asking for my github/portfolio.
+## This repository is a graveyard of:
+### - Things that I tried and dropped.
+### - Unfinished projects where I didn't get the money from the dear customer.
+### - Things really don't care much and do not find valuable.
+## Good luck.
+
+### 
+
 # 💫 About Me:
 🔭 Fullstack developer with backend past:<br>![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>🚀 Never stopping to learn something new, never really satisfied with what has been achieved.<br>🌱 Right now I re-studying DevOps practices with KodeKloud.<br>💬 Advice from the man with thousand skills: NEVER SKIP BASICS. It is the thing that make you stand where all falling.<br>🙈 I really need to add something to my portfolio, but I'm always too busy with stuff I've been paid for. So here [website](https://parok.fun/) I made not long ago.
 
