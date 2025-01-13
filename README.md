@@ -4,11 +4,12 @@
 ### And still, every second recrutier is asking for my github/portfolio.
 ## This repository is a graveyard of:
 ### - Things that I tried and dropped.
-### - Unfinished projects where I didn't get the money from the dear customer.
+### - Unfinished projects where I didn't got the money from the dear customer.
 ### - Things I really don't care much and do not find valuable.
-### - Other things from my distant eras
-### - Test assigments apparently
-> And I really do not like Github policy. So... good luck in training AI on my garbage collector, lads.
+### - Other things from my distant eras.
+### - Test assigments apparently.
+---
+> Also, I really do not like Github policy. So... good luck in training AI on my garbage collector, lads.
 
 ### 
 
