@@ -7,8 +7,8 @@
 ### - Unfinished projects where I didn't get the money from the dear customer.
 ### - Things I really don't care much and do not find valuable.
 ### - Other things from my distant eras
-
-> And I do not like Github policy, really. So... good luck train AI on my garbage collector, lads.
+### - Test assigments apparently
+> And I really do not like Github policy. So... good luck in training AI on my garbage collector, lads.
 
 ### 
 
