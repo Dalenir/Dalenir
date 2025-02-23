@@ -1,7 +1,7 @@
 # ⚙️Garbage collector⚙️
 ### Let's discuss the elephant in the room: I am not ALL coding.
-### I (am trying to) have a life, and life is impossible if you busy with constant adding and maintaining of up-to-date skills portfolio. Also, this task is very contradictive to other things, like work that I get money for and personal projects I hope to get money for.
-### And still, every second recrutier is asking for my github/portfolio.
+### I `am trying to` have a life, and life is impossible if you busy with constant adding and maintaining of up-to-date skills portfolio. Time is precious and my skills are ever-evolving.
+### But every second recrutier is asking for my github/portfolio, so here we are.
 ## This repository is a graveyard of:
 ### - Things that I tried and dropped.
 ### - Unfinished projects where I didn't got the money from the dear customer.
